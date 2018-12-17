@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Learning</string>
+    <string name="message">Message</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="communicate">Communicate</string>
+    <string name="info_codinginflow_com">info@codinginflow.com</string>
+    <string name="coding_in_flow">Coding In Flow</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
