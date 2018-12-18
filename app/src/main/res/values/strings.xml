@@ -10,4 +10,7 @@
     <string name="coding_in_flow">Coding In Flow</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="message_fragment">Message Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+    <string name="fragment_chat">Fragment Chat</string>
 </resources>

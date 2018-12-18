@@ -21,8 +21,7 @@
             android:background="@color/colorPrimary"
             android:elevation="4dp"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
-
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
 
         <FrameLayout
@@ -33,6 +32,8 @@
         </FrameLayout>
 
     </LinearLayout>
+
+    <!--gravity must be at start or left . otherwise app will crash-->
 
     <android.support.design.widget.NavigationView
         android:id="@+id/nav_view"
